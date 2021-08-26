@@ -1,0 +1,6 @@
+COMANDOS:
+cd : mover en carperas
+mkdir : crear directorios
+code . :abrir visual studio code 
+git init : no me acuerdo
+branch o rama de Tano
